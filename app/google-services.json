@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "547713889498",
+    "firebase_url": "https://wakesandbakes-27ba4.firebaseio.com",
+    "project_id": "wakesandbakes-27ba4",
+    "storage_bucket": "wakesandbakes-27ba4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:547713889498:android:2c61b30ae22b209b",
+        "android_client_info": {
+          "package_name": "com.example.mypc.wakesandbakes"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "547713889498-sul5gngfds6tetvn05msvteah6fo8f73.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.mypc.wakesandbakes",
+            "certificate_hash": "d125e4efa7d811c36f9f4c93926349d02884496e"
+          }
+        },
+        {
+          "client_id": "547713889498-ldbd0u4fou6tt247fvdbmd0isrm870us.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC88pdyGiQzVAVZtZ_GQzYUFej-jRjZCGg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "547713889498-ldbd0u4fou6tt247fvdbmd0isrm870us.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
